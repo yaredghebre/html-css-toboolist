@@ -27,9 +27,8 @@ body{
     height: 200px;
     background-color: white;
     display: block;
-    padding-left: 30px;
+    padding-left: 50px;
     margin-bottom: 100px;
-
 }
 
 .header-container img{
@@ -80,7 +79,7 @@ h1{
 /* CONTAINER */
 
 .container{
-    height: 1100px;
+    height: 1200px;
     width: 80%;
     margin: 0 auto;
     background-color: white;
