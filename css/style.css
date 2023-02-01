@@ -55,7 +55,7 @@ h1{
 }
 
 #add-task{
-    border: 0;
+    border: 1px solid #45abea;
     margin: 10px;
     line-height: 80px;
     padding: 0 20px;
@@ -64,9 +64,11 @@ h1{
     color: white;
     border-radius: 10px;
     background-color: #45abea;
+    cursor: pointer;
 }
     
 #add-section{
+    border: 1px solid black;
     line-height: 80px;
     padding: 0 20px;
     font-size: 2rem;
@@ -74,12 +76,12 @@ h1{
     color: lightgray;
     border-radius: 10px;
     background-color: white;
+    cursor: pointer;
 }
 
 /* CONTAINER */
 
 .container{
-    height: 1200px;
     width: 80%;
     margin: 0 auto;
     background-color: white;
@@ -118,7 +120,7 @@ ul.unmarked-li{
     margin-right: 15px;
 }
 
-#editorial{
+.editorial{
     border: 0;
     margin: 10px;
     line-height: 50px;
